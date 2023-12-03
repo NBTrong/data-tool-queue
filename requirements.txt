@@ -1,0 +1,16 @@
+gcloud==0.18.3
+google-cloud-storage==1.37.1
+pandas==2.1.1
+aiohttp==3.8.4
+async-timeout==4.0.2
+pydantic==1.10.7
+python-crontab==2.7.1
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+SQLAlchemy==2.0.13
+multidict==6.0.4
+
+openpyxl==3.1.2
+requests==2.31.0
+boto3==1.28.11
+xlsxwriter==3.1.9
