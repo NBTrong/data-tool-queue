@@ -12,7 +12,7 @@ app_env = os.getenv("APP_ENV")
 if app_env == "local":
     baseUrl = "http://192.168.1.80:9200/api/v1/"
 else:
-    baseUrl = "https://api.xdata.app/api/v1/"
+    baseUrl = "https://api.nbtrong.id.vn/api/v1/"
 
 class BaseConfig(BaseSettings):
     ENV: str = "default"
